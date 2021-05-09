@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="stock-priceR" type="R" singleton="false">
+    <r-file-path value="$PROJECT_DIR$/notebooks/EDA.rmd" />
+    <working-directory value="$PROJECT_DIR$/notebooks" />
+    <interpreter-arguments value="" />
+    <script-arguments value="" />
+    <envs />
+    <method v="2" />
+  </configuration>
+</component>
